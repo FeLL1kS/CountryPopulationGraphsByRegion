@@ -1,3 +1,7 @@
+# Description
+
+This project displays country vs population charts categorized by region 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
