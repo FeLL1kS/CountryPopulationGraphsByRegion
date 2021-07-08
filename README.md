@@ -1,3 +1,5 @@
+![](https://i.imgur.com/MXXRa9y.png) 
+
 # Description
 
 This project displays country vs population charts categorized by region 
